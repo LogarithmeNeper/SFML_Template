@@ -1,0 +1,3 @@
+/home/logarithmeneper/Desktop/SFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/logarithmeneper/Desktop/SFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/logarithmeneper/Desktop/SFML/cmake-build-debug/CMakeFiles/SFML.dir
