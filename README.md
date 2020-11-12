@@ -12,7 +12,7 @@ sudo apt-get install libsfml-dev
 ```
 This will install `libsfml-audio2.5`, `libsfml-graphics2.5`, `libsfml-network2.5`, `libsfml-system2.5` and `libsfml-window2.5`.
 
-If you also want SFMl documentation you can install it by running:
+If you also want SFML documentation you can install it by running:
 ```sh
 sudo apt-get install libsfml-doc
 ```
